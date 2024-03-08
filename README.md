@@ -1,1 +1,1 @@
-# Spring-Jwt-project
+# Spring-Jwt-security-project
